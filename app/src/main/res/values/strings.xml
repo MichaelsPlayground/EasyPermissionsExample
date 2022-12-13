@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Permissions Example</string>
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \n\nRead external storage: %s
+        </string>
+</resources>
